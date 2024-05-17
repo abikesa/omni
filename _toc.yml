@@ -4,4 +4,4 @@ title: Play
 parts:
   - caption: Part 1
     chapters:
-      - file: act_0/act_0_0/act_0_0_0/act_0_0_0_1.ipynb
+      - file: omni/dag.ipynb
